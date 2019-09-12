@@ -2,7 +2,7 @@
   "development": {
     "username": "postgres",
     "password": "12qwaszx",
-    "database": "lab1",
+    "database": "starter-kit",
     "host": "127.0.0.1",
     "dialect": "postgres"
   },
